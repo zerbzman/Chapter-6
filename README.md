@@ -20,8 +20,7 @@ between calls to the procedure. Write a test program that calls the procedure tw
 ent values for j and k. Verify your results using a debugger.  
 
 2.  Summing Array Elements in a Range  
-Create a procedure that returns the sum of all array elements falling within the range j...k (inclu-
-sive). Write a test program that calls the procedure twice, passing a pointer to a signed double-
+Create a procedure that returns the sum of all array elements falling within the range j...k (inclusive). Write a test program that calls the procedure twice, passing a pointer to a signed double-
 word array, the size of the array, and the values of j and k. Return the sum in the EAX register,
 and preserve all other register values between calls to the procedure.  
 
